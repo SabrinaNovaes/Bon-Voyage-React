@@ -1,0 +1,20 @@
+.btn,
+.enviar {
+  background-color: rgb(245, 176, 210);
+  color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px auto 5px auto;
+  width: 75%;
+  height: 35px;
+  border-radius: 15px;
+}
+
+.enviar:hover,
+.btn:hover {
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition: 1s;
+  transform: scale(1.1, 1.1);
+}

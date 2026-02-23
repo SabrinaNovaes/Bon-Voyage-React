@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.dados_pessoais, .endereco, .cad{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin:auto;
+    padding: 10px;
+    opacity:1;
+}

@@ -1,0 +1,9 @@
+.nav-label {
+    color: #000;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+    font-size: 17px;
+    text-align: center;
+    justify-content: center;
+  }

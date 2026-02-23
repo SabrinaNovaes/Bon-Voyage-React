@@ -1,0 +1,13 @@
+Body{
+  background: #ddd6f3;
+  background: -webkit-linear-gradient(to top, #faaca8, #ddd6f3)", background: "linear-gradient(to top, #faaca8, #ddd6f3);
+}
+
+.offcanvas label{
+    font-size: 13px;
+  }
+  .info label{
+    display:flex;
+    padding: 10px;
+  }  
+  
